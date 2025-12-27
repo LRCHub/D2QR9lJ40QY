@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "from the edge",
+  "base_artist": "FictionJunction",
+  "createdAt": "2025-12-27T07:44:26.342789Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Back from the Edge",
+      "artist": "Bruce Dickinson",
+      "has_synced": true,
+      "path": "select/01_Back_from_the_Edge_Bruce_Dickinson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hailin from the Edge",
+      "artist": "Apparat",
+      "has_synced": true,
+      "path": "select/02_Hailin_from_the_Edge_Apparat.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "From The Edge Of The Deep Green Sea",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/03_From_The_Edge_Of_The_Deep_Green_Sea_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Walking Away from the Edge",
+      "artist": "Journey",
+      "has_synced": false,
+      "path": "select/04_Walking_Away_from_the_Edge_Journey.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Song from the Edge of the World (JVC Version)",
+      "artist": "Siouxsie & The Banshees",
+      "has_synced": false,
+      "path": "select/05_Song_from_the_Edge_of_the_World_(JVC_Version)_Siouxsie_&_The_Banshees.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Song From the Edge of the World (Janice Long Show 11.1.87)",
+      "artist": "Siouxsie & The Banshees",
+      "has_synced": false,
+      "path": "select/06_Song_From_the_Edge_of_the_World_(Janice_Long_Show_11.1.87)_Siouxsie_&_The_Banshees.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Song From the Edge of the World (Janice Long Show 11.1.87)",
+      "artist": "Siouxsie and the Banshees",
+      "has_synced": false,
+      "path": "select/07_Song_From_the_Edge_of_the_World_(Janice_Long_Show_11.1.87)_Siouxsie_and_the_Banshees.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Far From the Edge",
+      "artist": "Elysion",
+      "has_synced": true,
+      "path": "select/08_Far_From_the_Edge_Elysion.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "From the Edge of the Earth",
+      "artist": "Sylosis",
+      "has_synced": true,
+      "path": "select/09_From_the_Edge_of_the_Earth_Sylosis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Looking Down from the Edge",
+      "artist": "blessthefall",
+      "has_synced": false,
+      "path": "select/10_Looking_Down_from_the_Edge_blessthefall.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Walkin’ Away From the Edge",
+      "artist": "Journey",
+      "has_synced": false,
+      "path": "select/11_Walkin’_Away_From_the_Edge_Journey.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "From The Edge Of The Deep Gree",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/12_From_The_Edge_Of_The_Deep_Gree_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "From the Edge (feat. LiSA)",
+      "artist": "FictionJunction",
+      "has_synced": true,
+      "path": "select/13_From_the_Edge_(feat._LiSA)_FictionJunction.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "from the edge",
+      "artist": "FictionJunction feat. LiSA",
+      "has_synced": true,
+      "path": "select/14_from_the_edge_FictionJunction_feat._LiSA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Back from the Edge (2001 Remastered Version)",
+      "artist": "Bruce Dickinson",
+      "has_synced": false,
+      "path": "select/15_Back_from_the_Edge_(2001_Remastered_Version)_Bruce_Dickinson.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "from the edge",
+      "artist": "FictionJunction, LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_from_the_edge_FictionJunction,_LiSA.txt"
+    }
+  ]
+}
